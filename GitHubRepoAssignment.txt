@@ -1,0 +1,5 @@
+1. Access my github: https://github.com/jaechoi15/, select the "+" dropdown menu, select "New repository" and name it GitHubRepoAssignment
+2. Open Windows run menu by selecting Windows+R, enter cmd, and select OK to open the command prompt, enter cd desktop, enter mkdir GitHubRepoAssignment
+3. cd GitHubRepoAssignment, enter git init
+4. enter copy nul readme.md, notepad readme.md, type text explaining its contents
+5. git status, git add ., git commit -m "added readme.md", git remote add origin https://github.com/jaechoi15/GitHubRepoAssignment.git, git push -u origin master
